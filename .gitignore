@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DolgozatProject/.vs/DolgozatProject
+/DolgozatProject/DolgozatProject/bin/Debug/net8.0
+/DolgozatProject/DolgozatProject/obj
+/DolgozatProject/TestDolgozatProject/bin/Debug/net8.0
+/DolgozatProject/TestDolgozatProject/obj
